@@ -8,8 +8,8 @@ This repository contains a simple project demonstrating the use of OpenCV to loa
 - `files/`
   - `image.py`: A Python script that uses OpenCV to load and display an image.
 - `images/`
-  - `bmw1.jpg`: image1.
-  - `bmw2.jpg`: image2.
+  - `1.jpg`: image1.
+  - `2.jpg`: image2.
 
 ## `files/` Folder
 
@@ -24,5 +24,5 @@ This script performs the following actions:
 ## `images/` Folder
 
 The `images` folder contains two example image files:
-- `bmw1.jpg`: This image shows fruits.
-- `bmw2.jpg`: This image shows vegitables.
+- `1.jpg`: This image shows fruits.
+- `2.jpg`: This image shows vegitables.
